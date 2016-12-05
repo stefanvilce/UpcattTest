@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UpCatt</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_newuser">New User</string>
+    <string name="action_balance">Balance</string>
+    <string name="action_getpaid">Get Paid</string>
+    <string name="action_pinchange">Change Pin</string>
+    <color name="titletextcolor">#00C6D7</color>
+</resources>
